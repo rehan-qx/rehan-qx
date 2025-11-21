@@ -77,8 +77,6 @@ I'm [N1xR00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
----
-
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
@@ -88,7 +86,6 @@ I'm [N1xR00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter
  <p align="left"><a href="https://github.com/rehan-qx/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-qx&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
----
 <h2 id="donate" align=''> Support⚡️</h2>
 
 <details>
@@ -98,9 +95,6 @@ I'm [N1xR00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter
 <p align="center"><a href="https://buymeacoffee.com/rehan-qx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
-
-
-
 
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
