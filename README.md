@@ -2,8 +2,11 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Hi!👋🏻+I'm+REHAN.0xR00t;Offensive+Security+Researcher;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+>3;Hi!+I'm+REHAN.0xR00t!;Offensive+Security+Researcher;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <em><strong>Web • API • Network and Cloud Security  • AI </strong></em>
+</p>
 
 <p align="center">
   <a href="https://rehanqx.vercel.app/">
