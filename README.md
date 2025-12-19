@@ -1,11 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 <!-- ===================== HEADER ===================== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!;Hi!+I%27m+REHAN.0xR00t+%3C3;Offensive+Security+Researcher;Penetration+Tester;Bug+Bounty+Hunter" alt="Title"></img>
-  </a>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Hi!👋🏻+I'm+REHAN.0xR00t;Offensive+Security+Researcher;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://rehanqx.vercel.app/">
