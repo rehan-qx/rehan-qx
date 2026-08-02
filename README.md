@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+>3;Hi!+I'm+REHAN.N1xR00t!;Offensive+Security+Researcher;CERTIFIED+RED+TEAM+OPERATOR;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+>3;Hi!+I'm+N1xR00t!;Offensive+Security+Researcher;CERTIFIED+RED+TEAM+OPERATOR;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
 </h1>
 <p align="center">
   <em><strong>Web • API • Network and Cloud Security  • AI </strong></em>
@@ -15,13 +15,13 @@
  <a href="https://github.com/rehanqx">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:rehan.qx@proton.me">
+  <a href="mailto:defc0nx@proton.me">
     <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=protonmail"/>
   </a>
   <a href="https://www.linkedin.com/in/rehanqx">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://x.com/CyberOps_I9801">
+  <a href="https://x.com/m0nster_netw0rk">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
@@ -32,7 +32,7 @@
 Offensive Security Researcher & Penetration Tester specializing in  
 <strong>Web, API, and Network Security</strong>.
 
-- 🐞 Verified Bug Bounty Hunter (7+ valid vulnerabilities)
+- 🐞 Verified Bug Bounty Hunter (25+ valid vulnerabilities)
 - 🏆 Top **#6 National Rank** on TryHackMe
 - ⚔️ Strong focus on exploitation, reconnaissance & automation
 
