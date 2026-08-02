@@ -4,90 +4,188 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+>3;Hi!+I'm+N1xR00t!;Offensive+Security+Researcher;CERTIFIED+RED+TEAM+OPERATOR;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
 </h1>
-<p align="center">
-  <em><strong>Web • API • Network and Cloud Security  • AI </strong></em>
+
+
+
+
+<h4 align="center">
+Web Developer | Open Source Contributor | Building with AI, ML & Automation | Founder @ TeamCyberOps
+</h4>
+
+---
+
+<!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
+<h2>👤 About Me</h2>
+
+<p>
+Hi, I'm <strong>Muhammad Rehan Afzal</strong> — a <strong>Web Developer</strong>, <strong>Open Source Contributor</strong>, and <strong>Founder of TeamCyberOps</strong>.
 </p>
 
-<p align="center">
-  <a href="https://rehanqx9.web.app/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
+<p>
+I build digital systems that go beyond websites — focusing on tools, workflows, and ideas that solve real-world problems. My work blends development with automation and practical problem-solving.
+</p>
+
+
+<blockquote>
+💡 <i>"Dream it. Code it. Ship it."</i>
+</blockquote>
+
+<!-- BADGES UNDER ABOUT ME -->
+<div>
+   <a href="https://visitorbadge.io/status?path=rehanqx">
+    <img src="https://api.visitorbadge.io/api/visitors?path=rehanqx&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;"/>
   </a>
- <a href="https://github.com/rehanqx">
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/rehanqx">
+    <img alt="Followers" src="https://img.shields.io/github/followers/rehanqx?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+  </a>
+  <a href="https://github.com/rehanqx?tab=repositories">
+    <img alt="Repos" src="https://badges.strrl.dev/repos/rehanqx?color=%238A2BE2&style=for-the-badge&label=Repos">
+  </a>
+  <a href="https://github.com/rehanqx">
+    <img alt="Stars" src="https://img.shields.io/github/stars/rehanqx?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+  </a>
+  <a href="https://github.com/rehanqx">
+    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/rehanqx?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
+  </a>
+</div>
+
+---
+
+<!-- HOW TO REACH ME -->
+## 📫 How to Reach Me
+
+<div>
+  <a href="https://www.linkedin.com/in/rehanqx/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:defc0nx@proton.me">
-    <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=protonmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rehanqx">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+  <a href="https://github.com/rehanqx">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://x.com/m0nster_netw0rk">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+   <a href="https://instagram.com/m0nster_netw0rk">
+    <img src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=pink"/>
   </a>
+   <a href="https://x.com/m0nster_netw0rk">
+    <img src="https://img.shields.io/badge/X-%2324292e.svg?&style=for-the-badge&logo=twitter&logoColor=pink"/>
+  </a>
+</div>
+
+---
+
+<!-- LANGUAGES I USE -->
+## 🧰 Languages I Use
+
+<div>
+  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
+</div>
+
+---
+
+<!-- FRAMEWORKS I USE -->
+## 🧩 Frameworks I Use
+
+<div>
+  <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+</div>
+
+---
+
+<!-- TOOLS I USE -->
+## ⚒️ Tools I Use
+
+<div>
+  <a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Claude-4A90E2?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/></a>
+
+---
+
+## 📚 Currently Learning
+
+<div>
+  <a><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+</div>
+
+---
+
+<!-- MY CODING JOURNEY -->
+## 💻 My Coding Journey
+
+<details>
+  <summary>Click to read my journey</summary>
+
+  <br>
+  <div align="center">
+  <h3>🌱 How It All Started</h3>
+  <p align="left" style="max-width: 650px; font-size: 15px; line-height: 1.6;">
+    • <b>The Spark:</b> Discovered web development after my intermediate studies and got hooked on building real-world web apps.<br>
+    • <b>Learning & Growth:</b> Self-taught through online courses, followed by hands-on full-stack training at <b>NAVTTC</b>.<br>
+    • <b>Academic Base:</b> Continued sharpening my skills and expanding my tech horizon at <b>Sindh Agriculture University (SAU)</b>.<br>
+    • <b>Current Focus:</b> Deep-diving into modern <b>Frontend Development</b>, exploring modern frameworks, and crafting sleek user interfaces.
+  </p>
+</div>
+</details>
+
+
+---
+
+
+<!-- GITHUB STATS -->
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rehanqx&show_icons=true&theme=midnight-purple"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rehanqx&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanqx&layout=compact&theme=midnight-purple" />
 </p>
 
+---
 
 
-## 🧠 Profile
-Offensive Security Researcher & Penetration Tester specializing in  
-<strong>Web, API, and Network Security</strong>.
+<!-- GITHUB CONTRIBUTION GRAPH -->
+## 📈 My GitHub Contribution Graph
 
-- 🐞 Verified Bug Bounty Hunter (25+ valid vulnerabilities)
-- 🏆 Top **#6 National Rank** on TryHackMe
-- ⚔️ Strong focus on exploitation, reconnaissance & automation
-
-
-## 🛠️ Core Expertise
-### 🔴 Offensive Security
-![Web](https://img.shields.io/badge/Web%20Pentesting-Expert-black?style=for-the-badge)
-![API](https://img.shields.io/badge/API%20Security-Advanced-black?style=for-the-badge)
-![Network](https://img.shields.io/badge/Network%20Pentesting-Advanced-black?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Expert-black?style=for-the-badge)
-![VAPT](https://img.shields.io/badge/VAPT-Advanced-black?style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanqx&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; height: auto;" />
+</p>
 
 ---
 
-## 📊 Skill Statistics
 
-### 🧪 Security Domains
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-90%25-111111?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API%20Security-88%25-111111?style=for-the-badge)
-![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-85%25-111111?style=for-the-badge)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-87%25-111111?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-111111?style=for-the-badge)
+<!-- GITHUB CONTRIBUTIONS -->
+## 🐍 My GitHub Contributions
+
+![snake gif](https://github.com/kiranShamsHere/rehanqx/blob/output/github-snake.svg)
 
 ---
 
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-90%25-222222?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-85%25-222222?style=for-the-badge&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-222222?style=for-the-badge&logo=javascript)
-![PowerShell](https://img.shields.io/badge/PowerShell-75%25-222222?style=for-the-badge&logo=powershell)
-![SQL](https://img.shields.io/badge/SQL-80%25-222222?style=for-the-badge&logo=mysql)
-
----
-
-### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux%20(Kali%2FParrot)-92%25-000000?style=for-the-badge&logo=linux)
-![Windows AD](https://img.shields.io/badge/Windows%20%2F%20Active%20Directory-80%25-000000?style=for-the-badge&logo=windows)
-
----
-
-## ⚙️ Programming & Scripting
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS"/> </p>
-
-## 🔴 Security Tools & Offensive Utilities
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-black?style=for-the-badge&logo=burpsuite)
-![Nmap](https://img.shields.io/badge/Nmap-Advanced-black?style=for-the-badge&logo=nmap)
-![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-black?style=for-the-badge&logo=metasploit)
-![Wireshark](https://img.shields.io/badge/Wireshark-Advanced-black?style=for-the-badge&logo=wireshark)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Advanced-black?style=for-the-badge&logo=owasp)
-![SQLmap](https://img.shields.io/badge/SQLmap-Intermediate-black?style=for-the-badge)
-![Shodan](https://img.shields.io/badge/Shodan-Intermediate-black?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-Intermediate-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)
-
-
-
-
-
+<h3 align="center">🤝 Open for collaborations — star, fork, follow, and I'll get back to you!</h3>
