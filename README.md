@@ -9,7 +9,7 @@
 
 
 <h4 align="center">
-Web Developer | Open Source Contributor | Building with AI, ML & Automation | Founder @ TeamCyberOps
+Web Developer | DevOps | Security | Open Source Contributor | Founder @ TeamCyberOps
 </h4>
 
 ---
