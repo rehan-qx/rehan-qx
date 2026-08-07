@@ -19,7 +19,7 @@ Web Developer | DevOps | Security | Open Source Contributor | Founder @ TeamCybe
 <!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
 <h2>👤 About Me</h2>  
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Frehanqx&style=flat)](https://rankistan.dev/#rehanqx)
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Frehanqx&style=for-the-badge)](https://rankistan.dev/#rehanqx)
 
 <p>
 Hi, I'm <strong>Muhammad Rehan Afzal</strong> — a <strong>Web Developer</strong>, <strong>Open Source Contributor</strong>, and <strong>Founder of TeamCyberOps</strong>.
