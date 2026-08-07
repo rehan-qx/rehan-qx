@@ -14,10 +14,10 @@ Web Developer | Open Source Contributor | Building with AI, ML & Automation | Fo
 
 ---
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Frehanqx&style=flat)](https://rankistan.dev/#rehanqx)
+
 
 <!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
-<h2>👤 About Me</h2>
+<h2>👤 About Me</h2>  [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Frehanqx&style=flat)](https://rankistan.dev/#rehanqx)
 
 <p>
 Hi, I'm <strong>Muhammad Rehan Afzal</strong> — a <strong>Web Developer</strong>, <strong>Open Source Contributor</strong>, and <strong>Founder of TeamCyberOps</strong>.
