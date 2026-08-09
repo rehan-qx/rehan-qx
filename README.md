@@ -167,7 +167,7 @@ I build digital systems that go beyond websites — focusing on tools, workflows
 <!-- GITHUB CONTRIBUTIONS -->
 ## 🐍 My GitHub Contributions
 
-![snake gif](https://github.com/kiranShamsHere/rehanqx/blob/output/github-snake.svg)
+![snake gif](https://github.com/rehanqx/rehanqx/blob/output/github-snake.svg)
 
 ---
 
