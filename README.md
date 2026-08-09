@@ -141,27 +141,6 @@ I build digital systems that go beyond websites — focusing on tools, workflows
 
 ---
 
-<!-- MY CODING JOURNEY -->
-## 💻 My Coding Journey
-
-<details>
-  <summary>Click to read my journey</summary>
-
-  <br>
-  <div align="center">
-  <h3>🌱 How It All Started</h3>
-  <p align="left" style="max-width: 650px; font-size: 15px; line-height: 1.6;">
-    • <b>The Spark:</b> Discovered web development after my intermediate studies and got hooked on building real-world web apps.<br>
-    • <b>Learning & Growth:</b> Self-taught through online courses, followed by hands-on full-stack training at <b>NAVTTC</b>.<br>
-    • <b>Academic Base:</b> Continued sharpening my skills and expanding my tech horizon at <b>Sindh Agriculture University (SAU)</b>.<br>
-    • <b>Current Focus:</b> Deep-diving into modern <b>Frontend Development</b>, exploring modern frameworks, and crafting sleek user interfaces.
-  </p>
-</div>
-</details>
-
-
----
-
 
 <!-- GITHUB STATS -->
 ## ⚡ GitHub Stats
