@@ -163,12 +163,4 @@ I build digital systems that go beyond websites — focusing on tools, workflows
 
 ---
 
-
-<!-- GITHUB CONTRIBUTIONS -->
-## 🐍 My GitHub Contributions
-
-![snake gif](https://github.com/rehanqx/rehanqx/blob/output/github-snake.svg)
-
----
-
 <h3 align="center">🤝 Open for collaborations — star, fork, follow, and I'll get back to you!</h3>
